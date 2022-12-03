@@ -5,8 +5,6 @@
 
 This is 100% not the user README template (I promise)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/542061628791848960)](https://discord.com/users/542061628791848960)
-
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/542061628791848960?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else..."> 
 </div>
